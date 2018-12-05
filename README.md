@@ -49,7 +49,7 @@ You will get a Telegram auth token when you setup your bot - use this to configu
 Create an API Oauth2 Web App Login for your gmail account
 
 ```bash
-# https://access.redhat.com/documentation/en-us/red_hat_fuse/7.1/html/connecting_fuse_online_to_applications_and_services/connecting-to-gmail
+# https://access.redhat.com/documentation/en-us/red_hat_fuse/7.2/html-single/connecting_fuse_online_to_applications_and_services/#connecting-to-gmail_connectors
 # https://console.developers.google.com
 
 # In Fuse Online goto Settings -> OUATH to retrieve your callback URL
